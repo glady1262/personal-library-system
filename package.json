@@ -1,0 +1,12 @@
+{
+  "name": "personal-library-system",
+  "version": "1.0.0",
+  "description": "Personal Library System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
