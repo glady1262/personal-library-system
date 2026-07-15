@@ -1,5 +1,8 @@
 # Personal Library System
 
+## Developed By
+**Saranya S**
+
 ## Description
 A Personal Library System developed using HTML, CSS, JavaScript, Node.js, and Express. This application allows users to manage their personal book collection with a simple and user-friendly interface.
 
@@ -21,3 +24,6 @@ A Personal Library System developed using HTML, CSS, JavaScript, Node.js, and Ex
 1. npm install
 2. npm start
 3. Open http://localhost:3000
+
+## Author
+**Saranya S**
